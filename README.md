@@ -3,7 +3,7 @@ Simple Trajectory Prediction 3D Unity - Without LineRenderer - Perspective and O
 
 ✅ GameDevBox Youtube: https://www.youtube.com/channel/UCgXs2PTiL19Rv1qOn1SI7XQ
 
-✅ Itch.io: https://infinity-quaternion.itch.io/
+✅ Itch.io: https://infinity-quaternion.itch.io
 
 ✅ Google Play: https://play.google.com/store/apps/dev?id=5576002128030512939
 
